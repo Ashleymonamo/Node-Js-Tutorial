@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(218, 159, 159);
+    background-image: url("../img/R (1).jpg");
+    border-radius:5px;
+}
+img{
+    width:30%;
+    height: 30%;
+}
